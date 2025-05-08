@@ -43,35 +43,6 @@ A full-stack AI-powered platform that predicts IPL match outcomes and provides i
 
 ---
 
-## 📁 Project Structure
-
-ipl-prediction-project/
-│
-├── backend/
-│ ├── django_app/ # Django project with DRF API and admin
-│ ├── fastapi_service/ # FastAPI microservice for predictions
-│ └── models/ # ML models and feature engineering scripts
-│
-├── scraper/ # Selenium scrapers and scheduling logic
-│
-├── frontend/ # React.js frontend
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ └── services/
-│
-├── data/ # Preprocessed datasets and raw data snapshots
-│
-├── ollama_integration/ # LLM reasoning and prompt engineering
-│
-├── docker/ # Dockerfiles for each component
-│
-├── .env.example # Environment variable template
-├── requirements.txt
-└── README.md
-
-
----
 
 ## 🚀 Getting Started
 
