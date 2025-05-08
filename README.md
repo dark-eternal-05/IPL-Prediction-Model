@@ -108,7 +108,11 @@ Frontend auto-refreshes with WebSocket-based live updates during matches.
 
 ## 🧑‍💻 Author & Contact
 Sachit Panda
+
 Email: sachitpanda17@gmail.com
+
 Phone: +91-9348872307
+
 GitHub: github.com/dark-eternal
+
 LinkedIn: linkedin.com/in/sachit-panda
