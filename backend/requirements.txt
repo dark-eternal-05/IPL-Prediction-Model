@@ -1,0 +1,14 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+channels
+channels-redis
+django-cors-headers
+redis
+selenium
+pandas
+scikit-learn
+xgboost
+joblib
+requests
